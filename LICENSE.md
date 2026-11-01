@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+Copyright (c) 2016-2026 Nicola Brogelli
 Copyright (c) 2016 Macro Yau
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
